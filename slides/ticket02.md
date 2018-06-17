@@ -26,5 +26,4 @@
 
 - Арифметическое выражение (a*b+c)*(d-e/f)
 
-<!-- TODO:
-- Add picture-->
+![](../pictures/ticket02-1.png)

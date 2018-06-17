@@ -79,7 +79,10 @@ Tmax=log2N(при сбалансированном дереве)
 Tmax=N(при вырожденном дереве)
 ```
 
-`ПИКЧИ`
+![](../pictures/ticket12-1.png)
 
-<!-- TODO:
-- Add more info -->
+![](../pictures/ticket12-2.png)
+
+![](../pictures/ticket12-3.png)
+
+![](../pictures/ticket12-4.png)
