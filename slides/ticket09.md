@@ -83,7 +83,8 @@ TList TList::plus(TList list)
         }
         flag = 1;
     }
-    if ((ptr->data == tmp->data) && (ptr->data != -1) && (tmp->data != -1))
+    if ((ptr->data == tmp->data) && (ptr->data != -1)
+    && (tmp->data != -1))
     {
         this->insCurrent(ptr->data, tmp->data2 + ptr->data2);
         if ((tmp->data2 + ptr->data2) == 0)
