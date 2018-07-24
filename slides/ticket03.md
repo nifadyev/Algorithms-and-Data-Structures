@@ -91,10 +91,10 @@ c_{n1} & \dots & c_{nm}
 ```C++
 Class TLink
 {
- Public:
-    Intvalue;//значение
-    Intnext;//индекс следующего звена
- Protected:
+ public:
+    Int value;  //значение
+    Int next;  //индекс следующего звена
+ protected:
     TLink();
 };
 TLinkMem[MemLimit];
