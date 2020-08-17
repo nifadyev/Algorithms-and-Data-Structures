@@ -1,10 +1,9 @@
-# Алгоритмы и Структуры Данных. Экзамен
+# Exam tickets for Algorithm and Data Structures Course
 
-- Сайт с HTML презентациями: https://nifadyev.github.io/Algorithms-and-Data-Structures/
-- Основано на методических материалах по АиСД под авторством Гергеля
-- Использованные инструменты: [DrawIO](https://www.draw.io), [CodeCogs](https://www.codecogs.com/latex/eqneditor.php)(Online LaTex Editor)
+- Based on methodological materials written by Gergel
+- Used tools: [DrawIO](https://www.draw.io), [CodeCogs](https://www.codecogs.com/latex/eqneditor.php)(Online LaTex Editor)
 
-## THANKS
+## Thanks
 
 - [Palidos](https://github.com/Palidos)
 - [Gachiman](https://github.com/Gachiman)
